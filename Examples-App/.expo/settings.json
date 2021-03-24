@@ -1,0 +1,10 @@
+{
+  "hostType": "lan",
+  "lanType": "ip",
+  "dev": true,
+  "minify": false,
+  "urlRandomness": "kd-c4i",
+  "https": false,
+  "scheme": null,
+  "devClient": false
+}
