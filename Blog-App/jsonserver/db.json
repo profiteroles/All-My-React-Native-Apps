@@ -1,0 +1,14 @@
+{
+  "blogposts": [
+    {
+      "title": "My First Blog App",
+      "content": "CHANGE THE CONTENT IN THIS BLOG",
+      "id": 2
+    },
+    {
+      "title": "Cinema Crood 2",
+      "content": "Yeaaaa we are going to see a movie",
+      "id": 3
+    }
+  ]
+}
